@@ -35,6 +35,7 @@ public class MessageUtil {
 	public static final String EVENT_TYPE_CLICK = "click";
 	public static final String EVENT_TYPE_SCAN = "scan";
 	public static final String EVENT_TYPE_LOCATION = "location";
+	public static final String EVENT_TYPE_VIEW = "view";
 
 	public static final String RESP_MESSAGE_TYPE_TEXT = "text";
 	public static final String RESP_MESSAGE_TYPE_MUSIC = "music";
